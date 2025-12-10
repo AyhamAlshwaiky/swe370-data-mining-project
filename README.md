@@ -16,7 +16,8 @@ uv sync && uv run jupyter lab
 
 ## References
 
-- D. Chen. "Online Retail II," UCI Machine Learning Repository, 2012. [Online]. Available: https://doi.org/10.24432/C5CG6D.
+- R. Fisher. "Iris," UCI Machine Learning Repository, 1936. [Online]. Available:
+  https://doi.org/10.24432/C56C76.
 
 ## License
 
